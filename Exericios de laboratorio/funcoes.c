@@ -1,3 +1,7 @@
+/*
+Feito pelo Paulo Campos
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
